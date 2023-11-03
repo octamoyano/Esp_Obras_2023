@@ -2,7 +2,7 @@
 
 Trabajo Final Especialización 
 
-##Grupo 2##
+## Grupo 2 ##
 
-*Facundo Mole
-*Octavio Moyano
+* Facundo Mole
+* Octavio Moyano
