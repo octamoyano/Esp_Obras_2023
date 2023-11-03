@@ -28,3 +28,7 @@ Ejemplo para Empresa Desarrolladora Monteverdi
 ### Personal ###
 ### Subcontratos ###
 ### Materiales ###
+
+![Orden de mando](https://github.com/octamoyano/Esp_Obras_2023/assets/149723224/4baa9425-5338-47fb-b143-a4e7274a8f35)
+
+
